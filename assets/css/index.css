@@ -29,6 +29,7 @@
 
 .navbar a:hover {
     color: #1f73d1;
+    transform: scale(1.05);
 }
 
 .hero {
@@ -80,6 +81,6 @@
 }
 
 .botao:hover {
-    background-color: #165aa3;
+    background-color: #9e3acc;
     transform: scale(1.05);
 }
